@@ -1,0 +1,29 @@
+.card{
+    width: 300px;
+}
+
+.card-img-top{
+    width: 300px;
+}
+
+.card-text-price .symbol{
+    font-weight: bold;
+}
+
+.card-text-description{
+    font-weight:lighter;
+}
+
+#button-container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.input-block{
+    width: 60%;
+}
+
+.input-number{
+    text-align: center;
+}
